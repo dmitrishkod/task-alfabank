@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c3651c-9ba3-4859-8bba-a6c7f708be81" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-    </list>
+    <list default="true" id="22c3651c-9ba3-4859-8bba-a6c7f708be81" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1660314024622" duration="52000" />
       <workItem from="1660379440465" duration="63000" />
       <workItem from="1660571646021" duration="1371000" />
-      <workItem from="1660652984013" duration="17000" />
+      <workItem from="1660652984013" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="create Controller, Service, Model">
       <created>1660134924144</created>
@@ -119,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660652995838</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1660653006428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660653006428</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
