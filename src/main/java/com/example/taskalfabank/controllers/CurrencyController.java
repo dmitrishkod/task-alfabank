@@ -24,6 +24,5 @@ public class CurrencyController {
     @GetMapping(path = "/", produces = "application/json")
     public List<Currency> getCurrency() {
         return currencyService.list();
-1
     }
 }
